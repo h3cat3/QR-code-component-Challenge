@@ -11,6 +11,8 @@ div {
     border-radius: 15px;
     width: 20%;
     height: 75%;
+    min-width: 375px;
+    max-width: 1440px;
     margin: 5% auto;
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
