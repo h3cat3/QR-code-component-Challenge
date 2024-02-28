@@ -3,16 +3,12 @@
 body {
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
-    min-width: 375px;
-    max-width: 1440px;
 }
 
 div {
     border-radius: 15px;
     width: 275px;
     height: 75%;
-    min-width: 375px;
-    max-width: 1440px;
     margin: 5% auto;
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
